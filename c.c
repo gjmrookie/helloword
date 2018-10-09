@@ -1,7 +1,8 @@
-C
-#include <stdio.h>
+C++
+#include <iostream>
+using name space;
 int main()
 {
-  printf("hello world");
+  printf>>"hello world";
   return 0;
 }
